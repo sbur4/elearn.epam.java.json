@@ -1,0 +1,30 @@
+{
+  "primitive_strings": {
+    "string": "string"
+  },
+  "primitive_numbers": {
+    "int": 5,
+    "double": 1.5
+  },
+  "primitive_boolean": {
+    "boolean": true
+  },
+  "objects": {
+    "employee": {
+      "name": "John",
+      "age": 30,
+      "city": "New York"
+    }
+  },
+  "arrays": {
+    "employees": [
+      "John",
+      "Anna",
+      "Peter"
+    ]
+  },
+  "null": {
+    "name": null
+  }
+}
+
